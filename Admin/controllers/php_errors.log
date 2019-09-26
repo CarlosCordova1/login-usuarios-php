@@ -1,0 +1,488 @@
+[19-Dec-2017 15:38:08 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:08 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:08 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:08 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:08 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:08 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:17 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:17 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:17 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:17 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:17 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:38:17 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:31 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:31 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:31 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:31 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:31 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:31 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:32 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:32 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:32 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:32 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:32 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgn in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:40:32 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 114
+[19-Dec-2017 15:42:45 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 154
+[19-Dec-2017 15:43:22 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 211
+[19-Dec-2017 15:43:22 America/Bogota] PHP Notice:  Undefined variable: respuesta2 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 487
+[19-Dec-2017 15:43:42 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 211
+[19-Dec-2017 15:45:21 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 211
+[02-Jan-2018 09:45:38 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 154
+[02-Jan-2018 09:51:43 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 154
+[02-Jan-2018 10:05:23 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 154
+[28-Feb-2018 09:27:26 America/Bogota] PHP Fatal error:  Class 'Funciones' not found in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 4
+[28-Feb-2018 09:27:31 America/Bogota] PHP Fatal error:  Class 'Funciones' not found in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 4
+[28-Feb-2018 09:27:46 America/Bogota] PHP Fatal error:  Class 'Funciones' not found in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 4
+[28-Feb-2018 09:27:56 America/Bogota] PHP Fatal error:  Class 'Funciones' not found in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 4
+[28-Feb-2018 09:27:58 America/Bogota] PHP Fatal error:  Class 'Funciones' not found in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 4
+[28-Feb-2018 09:42:35 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 108
+[28-Feb-2018 09:47:58 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 09:50:43 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 09:51:07 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 09:52:34 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 09:53:59 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 09:57:41 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 09:58:58 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:01:05 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:01:50 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:02:24 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:04:18 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:04:51 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:05:30 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:14:05 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:18:31 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:18:46 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:19:49 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:20:26 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:20:53 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:21:55 America/Bogota] PHP Notice:  Undefined index: encuesta in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 542
+[28-Feb-2018 10:23:31 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:23:32 America/Bogota] PHP Notice:  Undefined index: encuesta in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 542
+[28-Feb-2018 10:23:42 America/Bogota] PHP Notice:  Undefined index: encuesta in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 542
+[28-Feb-2018 10:23:53 America/Bogota] PHP Notice:  Undefined index: encuesta in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 542
+[28-Feb-2018 10:29:48 America/Bogota] PHP Notice:  Undefined index: encuesta in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 542
+[28-Feb-2018 10:37:18 America/Bogota] PHP Notice:  Undefined index: encuesta in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 542
+[28-Feb-2018 10:37:54 America/Bogota] PHP Notice:  Undefined index: encuesta in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 547
+[28-Feb-2018 10:40:47 America/Bogota] PHP Notice:  Undefined index: encuesta in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 547
+[28-Feb-2018 10:40:48 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/views/ajax/verServiciosPaltillaAgregar.php on line 12
+[28-Feb-2018 10:40:48 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /WEB/git/test/usuariosLGN/Admin/views/ajax/verServiciosPaltillaAgregar.php on line 12
+[28-Feb-2018 10:51:01 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:51:12 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:52:05 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:53:04 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:53:42 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:54:36 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:55:04 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:57:14 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:57:35 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 10:59:00 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:09:45 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:13:40 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:15:44 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:36:28 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:37:31 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:37:31 America/Bogota] PHP Notice:  Undefined variable: respuesta2 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 464
+[28-Feb-2018 11:37:49 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:37:49 America/Bogota] PHP Notice:  Undefined variable: respuesta2 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 464
+[28-Feb-2018 11:37:59 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:38:58 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:39:27 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:41:39 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:44:34 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:44:54 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:45:25 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:45:46 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:46:53 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 11:47:19 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:51:24 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:51:35 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:53:24 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:53:25 America/Bogota] PHP Fatal error:  Cannot use object of type stdClass as array in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 445
+[28-Feb-2018 11:54:57 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 11:55:43 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 12:02:00 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 12:02:01 America/Bogota] PHP Fatal error:  Cannot use object of type stdClass as array in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 445
+[28-Feb-2018 12:03:00 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 12:04:16 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 12:04:16 America/Bogota] PHP Fatal error:  Cannot use object of type stdClass as array in /WEB/git/test/usuariosLGN/Admin/views/ajax/permisos.php on line 29
+[28-Feb-2018 12:11:15 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 12:11:15 America/Bogota] PHP Fatal error:  Cannot use object of type stdClass as array in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 454
+[28-Feb-2018 12:12:13 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 12:28:27 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 12:29:34 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 13:03:26 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 13:04:31 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 13:04:31 America/Bogota] PHP Notice:  Undefined variable: respuesta2 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 473
+[28-Feb-2018 13:04:41 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 13:04:49 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 13:06:04 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 13:08:33 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 13:12:40 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 13:13:20 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 13:18:04 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 13:18:31 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[28-Feb-2018 14:36:22 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 14:43:44 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:01:13 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:05:03 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:08:22 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:08:24 America/Bogota] PHP Notice:  Undefined variable: data1 in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 2
+[28-Feb-2018 15:08:42 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:08:43 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:08:43 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:09:38 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:09:38 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:09:42 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:09:45 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:09:45 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:10:10 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:10:10 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:10:16 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:10:16 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:10:20 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:10:22 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:10:22 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:12:09 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:12:09 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:13:11 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:13:11 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:15:25 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:15:25 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:16:28 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 287
+[28-Feb-2018 15:16:28 America/Bogota] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Bogota' for 'COT/-5.0/no DST' instead in /WEB/git/test/usuariosLGN/Admin/views/ajax/EditarPermisos.php on line 294
+[28-Feb-2018 15:17:04 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:17:32 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:18:26 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:18:50 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:24:08 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:25:58 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:26:46 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:31:08 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:39:04 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:42:11 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:44:31 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 15:54:13 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 16:27:44 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 16:45:13 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 17:13:01 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[28-Feb-2018 17:20:12 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 07:27:36 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 07:41:52 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 07:46:10 America/Bogota] PHP Notice:  Undefined index: usuario in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 586
+[01-Mar-2018 07:46:32 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 08:01:11 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 08:01:25 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 08:03:01 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 08:03:36 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 08:07:54 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 08:08:16 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 08:08:32 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 08:09:09 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 08:10:01 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[01-Mar-2018 11:52:48 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 09:52:04 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 09:52:29 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 10:28:32 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 10:49:06 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 10:49:09 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 10:49:36 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 10:50:09 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 11:19:35 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 11:21:05 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 11:21:21 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 11:23:15 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 12:08:38 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 12:13:07 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 12:13:36 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 12:13:40 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[06-Mar-2018 12:24:02 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[08-Mar-2018 16:49:06 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 08:21:31 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 08:27:04 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 08:27:28 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 08:28:24 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 08:30:18 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 08:30:52 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[09-Mar-2018 08:30:52 America/Bogota] PHP Notice:  Undefined variable: respuesta2 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 498
+[09-Mar-2018 08:32:06 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[09-Mar-2018 08:33:18 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[09-Mar-2018 08:56:18 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 08:56:39 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 08:56:40 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 08:58:21 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[09-Mar-2018 08:58:21 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgnUsuario in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 510
+[09-Mar-2018 09:08:29 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 09:08:58 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[09-Mar-2018 09:08:58 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgnUsuario in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 510
+[09-Mar-2018 09:08:58 America/Bogota] PHP Notice:  Undefined property: stdClass::$lgnUsuario in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 514
+[09-Mar-2018 09:13:14 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 09:14:00 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 09:14:35 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 09:15:01 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[09-Mar-2018 09:51:07 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 10:30:22 America/Bogota] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 156
+[09-Mar-2018 10:30:22 America/Bogota] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 156
+[09-Mar-2018 10:30:36 America/Bogota] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 156
+[09-Mar-2018 10:30:36 America/Bogota] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 156
+[09-Mar-2018 10:30:56 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 10:32:01 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[09-Mar-2018 10:54:18 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 11:14:31 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 12:30:20 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 13:00:22 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 15:46:03 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:02:36 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:03:14 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:04:30 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:04:45 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:06:00 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:07:57 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:08:30 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:08:31 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[09-Mar-2018 16:08:31 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[09-Mar-2018 16:08:31 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[09-Mar-2018 16:08:31 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[09-Mar-2018 16:08:31 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[09-Mar-2018 16:08:31 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[09-Mar-2018 16:08:32 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[09-Mar-2018 16:08:32 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[09-Mar-2018 16:08:32 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[09-Mar-2018 16:08:32 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[09-Mar-2018 16:08:32 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[09-Mar-2018 16:08:32 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[09-Mar-2018 16:08:51 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[09-Mar-2018 16:08:53 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[09-Mar-2018 16:19:08 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[09-Mar-2018 16:19:10 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[12-Mar-2018 08:00:00 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[12-Mar-2018 08:00:02 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[12-Mar-2018 10:20:22 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[12-Mar-2018 10:20:22 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[12-Mar-2018 10:20:22 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[12-Mar-2018 10:20:22 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[12-Mar-2018 10:20:22 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[12-Mar-2018 10:20:22 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[12-Mar-2018 15:14:34 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[12-Mar-2018 15:14:37 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[13-Mar-2018 10:43:25 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[13-Mar-2018 10:43:25 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[13-Mar-2018 10:43:25 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[13-Mar-2018 10:43:25 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[13-Mar-2018 10:43:25 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[13-Mar-2018 10:43:25 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[13-Mar-2018 10:44:00 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[13-Mar-2018 10:44:02 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[13-Mar-2018 10:44:02 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[13-Mar-2018 10:44:02 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[13-Mar-2018 10:44:02 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[13-Mar-2018 10:44:02 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[13-Mar-2018 10:44:02 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[13-Mar-2018 13:01:04 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[13-Mar-2018 13:01:04 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[13-Mar-2018 13:01:04 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[13-Mar-2018 13:01:04 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[13-Mar-2018 13:01:04 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[13-Mar-2018 13:01:04 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[13-Mar-2018 13:01:31 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[13-Mar-2018 13:01:33 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[13-Mar-2018 13:01:33 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[13-Mar-2018 13:01:33 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[13-Mar-2018 13:01:33 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[13-Mar-2018 13:01:33 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[13-Mar-2018 13:01:33 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[15-Mar-2018 07:45:51 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[15-Mar-2018 07:45:51 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[15-Mar-2018 07:45:51 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[15-Mar-2018 07:45:51 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[15-Mar-2018 07:45:51 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[15-Mar-2018 07:45:51 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[15-Mar-2018 07:46:00 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[15-Mar-2018 07:46:01 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[15-Mar-2018 07:46:01 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[15-Mar-2018 07:46:01 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[15-Mar-2018 07:46:01 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[15-Mar-2018 07:46:01 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[15-Mar-2018 07:46:01 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 10:02:43 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 10:02:43 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 10:02:43 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 10:02:43 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 10:02:43 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 10:02:43 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 10:03:34 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[26-Mar-2018 10:03:35 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 10:03:35 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 10:03:35 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 10:03:35 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 10:03:35 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 10:03:35 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 13:30:56 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 13:30:58 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 13:32:33 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 13:32:34 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 13:33:38 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 13:33:38 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 13:33:38 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 13:33:38 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 13:33:38 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 13:33:38 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 15:32:55 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 15:32:55 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 15:32:55 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 15:32:55 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 15:32:55 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 15:32:55 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 15:33:02 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[26-Mar-2018 15:33:04 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 15:33:04 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 15:33:04 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 15:33:04 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 15:33:04 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 15:33:04 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Mar-2018 15:34:08 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[26-Mar-2018 15:34:25 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Mar-2018 15:34:25 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Mar-2018 15:34:25 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Mar-2018 15:34:25 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Mar-2018 15:34:25 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Mar-2018 15:34:25 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[13-Aug-2018 08:55:04 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[13-Aug-2018 08:55:04 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[13-Aug-2018 08:55:04 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[13-Aug-2018 08:55:04 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[13-Aug-2018 08:55:04 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[13-Aug-2018 08:55:04 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[13-Aug-2018 08:55:09 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[13-Aug-2018 08:55:09 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[13-Aug-2018 08:55:09 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[13-Aug-2018 08:55:09 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[13-Aug-2018 08:55:09 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[13-Aug-2018 08:55:09 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[13-Aug-2018 08:55:31 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[13-Aug-2018 08:55:31 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[13-Aug-2018 08:55:31 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[13-Aug-2018 08:55:31 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[13-Aug-2018 08:55:31 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[13-Aug-2018 08:55:31 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[13-Aug-2018 08:55:44 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[13-Aug-2018 08:55:46 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[13-Aug-2018 08:55:46 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[13-Aug-2018 08:55:46 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[13-Aug-2018 08:55:46 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[13-Aug-2018 08:55:46 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[13-Aug-2018 08:55:46 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Oct-2018 08:06:04 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Oct-2018 08:06:04 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Oct-2018 08:06:04 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Oct-2018 08:06:04 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Oct-2018 08:06:04 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Oct-2018 08:06:04 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Oct-2018 08:06:09 America/Bogota] PHP Notice:  A session had already been started - ignoring session_start() in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 109
+[26-Oct-2018 08:06:11 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Oct-2018 08:06:11 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Oct-2018 08:06:11 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Oct-2018 08:06:11 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Oct-2018 08:06:11 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Oct-2018 08:06:11 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Oct-2018 08:08:29 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[26-Oct-2018 08:08:29 America/Bogota] PHP Notice:  Undefined variable: respuesta2 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 545
+[26-Oct-2018 08:08:43 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[26-Oct-2018 08:09:19 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Oct-2018 08:09:19 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Oct-2018 08:09:19 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Oct-2018 08:09:19 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Oct-2018 08:09:19 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Oct-2018 08:09:19 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Oct-2018 08:09:25 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Oct-2018 08:09:25 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Oct-2018 08:09:25 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Oct-2018 08:09:25 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Oct-2018 08:09:25 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Oct-2018 08:09:25 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Oct-2018 08:13:55 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Oct-2018 08:13:55 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Oct-2018 08:13:55 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Oct-2018 08:13:55 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Oct-2018 08:13:55 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Oct-2018 08:13:55 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Oct-2018 10:49:56 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[26-Oct-2018 10:49:56 America/Bogota] PHP Notice:  Undefined variable: respuesta2 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 545
+[26-Oct-2018 10:50:14 America/Bogota] PHP Notice:  Undefined index: date in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 168
+[26-Oct-2018 10:50:39 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Oct-2018 10:50:39 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Oct-2018 10:50:39 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Oct-2018 10:50:39 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Oct-2018 10:50:39 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Oct-2018 10:50:39 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481
+[26-Sep-2019 13:47:53 America/Bogota] PHP Notice:  Undefined variable: Acceso7 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 476
+[26-Sep-2019 13:47:53 America/Bogota] PHP Notice:  Undefined variable: Acceso8 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 477
+[26-Sep-2019 13:47:53 America/Bogota] PHP Notice:  Undefined variable: Acceso9 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 478
+[26-Sep-2019 13:47:53 America/Bogota] PHP Notice:  Undefined variable: Acceso10 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 479
+[26-Sep-2019 13:47:53 America/Bogota] PHP Notice:  Undefined variable: Acceso11 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 480
+[26-Sep-2019 13:47:53 America/Bogota] PHP Notice:  Undefined variable: Acceso12 in /WEB/git/test/usuariosLGN/Admin/controllers/ajax.php on line 481

@@ -1,0 +1,21 @@
+[28-Feb-2018 12:39:16 America/Bogota] PHP Warning:  file_get_contents(https://www.aguakan.com/git/api/webt.php??urlget=lgn/1.0/lgn/): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 76
+[28-Feb-2018 12:39:16 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 41
+[13-Nov-2018 11:13:12 America/Bogota] PHP Warning:  file_get_contents(http://aguakan.com/git/api/apiagk.php?urlget=lgn/1.0/lgn/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 76
+[13-Nov-2018 11:13:12 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 41
+[13-Nov-2018 11:13:20 America/Bogota] PHP Warning:  file_get_contents(http://aguakan.com/git/api/apiagk.php?urlget=lgn/1.0/lgn/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 76
+[13-Nov-2018 11:13:20 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 41
+[13-Nov-2018 11:13:32 America/Bogota] PHP Warning:  file_get_contents(http://aguakan.com/git/api/apiagk.php?urlget=lgn/1.0/lgn/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 76
+[13-Nov-2018 11:13:32 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 41
+[13-Nov-2018 11:13:46 America/Bogota] PHP Warning:  file_get_contents(http://aguakan.com/git/api/apiagk.php?urlget=lgn/1.0/lgn/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 76
+[13-Nov-2018 11:13:46 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 41
+[13-Nov-2018 11:14:01 America/Bogota] PHP Warning:  file_get_contents(http://aguakan.com/git/api/apiagk.php?urlget=lgn/1.0/lgn/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 76
+[13-Nov-2018 11:14:01 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 41
+[28-Dec-2018 10:48:35 America/Bogota] PHP Warning:  file_get_contents(http://aguakan.com/git/api/apiagk.php?urlget=lgn/1.0/lgn/): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 76
+[28-Dec-2018 10:48:35 America/Bogota] PHP Notice:  Trying to get property of non-object in /WEB/git/test/usuariosLGN/Admin/controllers/home.php on line 41
